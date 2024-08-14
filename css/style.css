@@ -1142,7 +1142,7 @@ align-content: center;
       
      
 }
-@media screen and (min-width:992px){
+@media screen and (min-width:993px){
       .card{
             width: 260px;
             /* flex-wrap: wrap; */
